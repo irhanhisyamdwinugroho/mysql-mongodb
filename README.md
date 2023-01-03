@@ -10,4 +10,8 @@ Di dalam database perpustakaan terdapat:
  6. tabel rak
 
 
-## 2. Kampus Database
+## 2. Laundry Database
+1. Tabel
+2. Tabel 
+3. Tabel
+4. Tabel
